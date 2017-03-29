@@ -3,3 +3,7 @@
 Checking to see if adding this new file while on a branch changes the status and if I can merge the branch UpdateReadme into
 
 the master branch without including this new file called, moon.txt.
+
+# I'm adding some text to this file to test the "git add ." command, expecting it to update this moon.txt file on github.
+
+I also am adding a new file called "moonRocks.txt". I expect it to be excluded from the add github when using the "git add ." command.

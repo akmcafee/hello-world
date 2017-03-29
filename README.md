@@ -1,4 +1,5 @@
 # hello-world
-Just another repository
+
+I went to the moon and this is what I learned.
 
 Moon tacos are better than Earth tacos.

@@ -1,0 +1,5 @@
+# New file added to project while on the UpdateReadme branch but has nothing to do with updating the README file.
+
+Checking to see if adding this new file while on a branch changes the status and if I can merge the branch UpdateReadme into
+
+the master branch without including this new file called, moon.txt.
